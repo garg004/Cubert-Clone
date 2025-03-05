@@ -1,5 +1,3 @@
-Thought for 1 second### Cuberto Galaxy - Interactive Website Clone
-
 ## Sections Implemented
 
 1. **Hero Section**
@@ -95,5 +93,3 @@ Thought for 1 second### Cuberto Galaxy - Interactive Website Clone
 - **Interactive Project Cards**: Cards with hover effects and modal popups
 - **Responsive Design**: Fully responsive layout with maintained animations across all devices
 
-
-This project demonstrates advanced animation techniques while maintaining performance and accessibility, creating an engaging user experience inspired by Cuberto's design aesthetic with a unique galaxy theme.
